@@ -44,7 +44,7 @@ html {
 }
 .welcome-section {
     height: 100%;
-    padding-top: 80px;
+    padding-top: 90px;
     text-align: center;
     background: #fff;
 }
@@ -78,3 +78,7 @@ html {
     color: #000;
 }
 
+#minhafoto{
+    border-radius: 50%;
+    
+}
